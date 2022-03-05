@@ -1,0 +1,38 @@
+h1 {
+    font-size: 100px;
+    background-color: aqua;
+}
+h4 {
+    font-size:25px;
+    color:red;
+}
+
+.myclass{
+    color:green;
+}
+
+.myclass{
+    font-size:50px;
+}
+
+.but1{
+    text-align: right;
+    width: 80%;
+    height: 30px;
+    background-color:blue;
+    transition: 1s;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 5px;
+}
+
+.but1:hover{
+    width: 100%;
+    background-color:yellow;
+    height: 50px;
+}
+
+.cen {
+    width: 100%;
+    text-align: center;
+}
